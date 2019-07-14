@@ -10,4 +10,4 @@ This project is a starting point for a main page of news application.
 
 Based on :
 - [Vertical Drag & Tween Sequence | Flutter SDK](https://www.youtube.com/watch?v=znzvjS5tRnQ)
-- [curved_navigation_bar 0.3.0](https://www.youtube.com/watch?v=znzvjS5tRnQ)
+- [curved_navigation_bar 0.3.0](https://pub.dev/packages/curved_navigation_bar)
