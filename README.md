@@ -1,10 +1,8 @@
 # VerticalDragBottomSheet
 
-Colapsed                   |  Expanded
+Collapsed             |  Expanded
 :-------------------------:|:-------------------------:
-![](https://github.com/ErmindoLopes/vertical_drag_bottom_sheet/blob/master/Screenshot_1.png)  |  
-![](https://github.com/ErmindoLopes/vertical_drag_bottom_sheet/blob/master/Screenshot_2.png)
-
+![](https://github.com/ErmindoLopes/vertical_drag_bottom_sheet/blob/master/Screenshot_1.png)  |  ![](https://github.com/ErmindoLopes/vertical_drag_bottom_sheet/blob/master/Screenshot_2.png)
 
 ## Getting Started
 
